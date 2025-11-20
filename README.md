@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hho0510/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/hho0510/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=1&branchName=code-workflow)
 
 # Contributing
 
@@ -63,3 +64,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
